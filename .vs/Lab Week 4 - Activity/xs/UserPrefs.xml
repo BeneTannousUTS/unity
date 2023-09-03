@@ -1,16 +1,16 @@
 ﻿<Properties StartupConfiguration="{DDB50613-C16D-154F-9814-E073F3C26057}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Test.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ProgressEvaluator.cs">
     <Files>
       <File FileName="Assets/Scripts/Test.cs" Line="10" Column="21" />
+      <File FileName="Assets/Scripts/LoadAssets.cs" />
+      <File FileName="Assets/Scripts/ProgressEvaluator.cs" Line="2" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Lab Week 4 - Activity" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="Test.cs" selected="True" />
-              </Node>
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -19,7 +19,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="fe071e48-784b-4d23-9b36-65efb40bb48d" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c9f79ec1-da3b-4616-b0cf-73ee43700d1a" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
