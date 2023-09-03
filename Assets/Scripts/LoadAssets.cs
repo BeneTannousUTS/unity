@@ -15,7 +15,7 @@ public class LoadAssets : MonoBehaviour
         Application.targetFrameRate = 60;
 
         Instantiate(redObj, new Vector3(2, 0, 0), Quaternion.identity);
-        Instantiate(blueObj, new Vector3(2, 0, 0), Quaternion.identity);
+        Instantiate(blueObj, new Vector3(-2, 0, 0), Quaternion.identity);
     }
 
     // Update is called once per frame
